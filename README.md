@@ -739,48 +739,48 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-🔲: 36-3: _Algoritimos de ordenação e busca_
+⬛: 36-3: _Algoritimos de ordenação e busca_
 
 
 
 
 
-🔲: 36-4: _Progeto - Algoritimos_
+⬛: 36-4: _Progeto - Algoritimos_
 
 ### Bloco 37: Estruturas de Dados: Hash e set
 
-🔲: 37-1: _Arrays_
+⬛: 37-1: _Arrays_
 
 
 
 
-🔲: 37-2: _Hashmap dict_ 
+⬛: 37-2: _Hashmap dict_ 
 
 
 
 
-🔲: 37-3: _Set_
+⬛: 37-3: _Set_
 
 
 
 
-🔲: 37-4: _Projeto - Restaurant Orders_
+⬛: 37-4: _Projeto - Restaurant Orders_
 
 ### Bloco 38: Estrutura de Dados: Pilhas, Filase e Listas
 
-🔲: 38-1: _Nó e listas Encadeadas_
+⬛: 38-1: _Nó e listas Encadeadas_
 
 
 
 
-🔲: 38-2: _Deque_
+⬛: 38-2: _Deque_
 
 
 
 
-🔲: 38-3: _Pilhas_
+⬛: 38-3: _Pilhas_
 
 
 
 
-🔲: 38-4: _Projeto - TING - Trybe is Not Google_
+⬛: 38-4: _Projeto - TING - Trybe is Not Google_
