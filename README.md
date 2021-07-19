@@ -1,254 +1,402 @@
-Este repositorio conta todas as atividades de aprendizagem desenvolvidas por _[RonaldDBezerra](www.linkedin.com/in/ronalddamasio)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
-
-_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
-
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introducao ao desenvolvimento de software, front-end, back-end, ciencia da computacao, engenharia de software, metodologias ageis e habilidades comportamentais.
-
-# Fundamentos do Desenvolvimento Web :white_check_mark:
-
-##### Bloco 1: Introducao - Unix & Shell
-
-- [x] 1-3: _Unix & Shell- Part 1_
-- [x] 1-4: _Unix & Shell- Part 2_
-
-##### Bloco 2: Git & GitHub
-
-- [x] 2-1: _O que é e para que serve?_
-- [x] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
-
-##### Bloco 3: Introducao - HTML & CSS
-
-- [ ] 3-1: _HTML & CSS - Estruturas de pagina_
-- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML Semantico_
-- [ ] 3-5: _[Projeto - HTML & CSS]()_
-
-##### Bloco 4: Introducao - JavaScript
-
-- [ ] 4-1: _JavaScript - Primeiros passos_
-- [ ] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Logica de Programacao e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funcoes_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
-
-##### Bloco 5: Introducao - JavaScript - Projetos
-
-- [ ] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
-
-##### Bloco 6: HTML & CSS avancado
-
-- [ ] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Pagina inicial do Facebook]()_
-
-##### Bloco 7: JavaScript ES6 & Testes Unitarios
-
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitarios em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitarios]()_
-
-##### Bloco 8: JavaScript ES6
-
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
-
-##### Bloco 9: Assincronicidade & Callbacks
-
-- [ ] 9-1: _JavaScript AssÃ­ncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
-
-##### Bloco 10: Jest
-
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assincronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assincrono e Mocking]()_
-
+:rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
+​
+Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por  [Ronald Damasio Bezerra](www.linkedin.com/in/ronalddamasio) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket: (2021-2022).
+​
+O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+​
+## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+​
+​
+### Bloco 1: [Introdução - Unix & Shell]
+​
+:ballot_box_with_check: 1-3: _Unix & Shell- Part 1_
+​
+​
+:ballot_box_with_check: 1-4: _Unix & Shell- Part 2_
+​
+​
+### Bloco 2: [Git & GitHub]
+​
+:ballot_box_with_check: 2-1: _O que é e para que serve?_
+​
+:ballot_box_with_check: 2-2: _Entendendo os comandos_
+​
+:ballot_box_with_check: 2-3: _Internet - Entendendo como ela funciona_
+​
+​
+### Bloco 3: Introdução - HTML & CSS
+​
+:black_large_square: 3-1: _HTML & CSS - Estruturas de página_
+​
+:black_large_square: 3-2: _HTML & CSS - Primeiros passos em CSS_
+​
+:black_large_square: 3-3: _HTML & CSS - Seletores e posicionamento_
+​
+:black_large_square: 3-4: _HTML Semântico_
+​
+:black_large_square: 3-5: _Projeto - Lesson Learned_
+  
+​
+### Bloco 4: Introdução - JavaScript e Lógica
+​
+:black_large_square:  4-1: _JavaScript - Primeiros passos_
+​
+:black_large_square: 4-2: _JavaScript - Array e loop For_
+​
+:black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+​
+:black_large_square: 4-4: _JavaScript - Objetos e funções_
+​
+:black_large_square: 4-5: _Projeto - Playground Functions_
+​
+  
+### Bloco 5: Javascript: DOM, Eventos e Web Storage
+​
+:black_large_square: 5-1: _JavaScript - DOM e seletores_
+​
+:black_large_square: 5-2: _JavaScript - Trabalhando com elementos_
+​
+:black_large_square: 5-3: _JavaScript - Eventos_
+​
+:black_large_square:  5-4: _JavaScript - Web Storage_
+​
+:black_large_square: 5.5: _Projeto: Arte com Pixels_
+​
+:black_large_square: 5-6: _Projeto - Lista de tarefas_
+​
+:black_large_square: 5-7: _Projeto Bônus - Meme Generator_
+​
+:black_large_square: 5-7: _Projeto Bônus - Adivinhe a cor_
+​
+:black_large_square: 5-7: _Projeto Bônus - Carta Misteriosa_
+​
+​
+### Bloco 6: HTML & CSS avançado
+​
+:black_large_square: 6-1: _HTML & CSS - Forms_
+​
+:black_large_square: 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+​
+:black_large_square: 6-3: _CSS Flexbox - Part 1_
+​
+:black_large_square: 6-4: _CSS Flexbox - Part 2_
+​
+:black_large_square: 6-5: _CSS Responsivo - Mobile First_
+​
+:black_large_square: 6-6: _Projeto - Trybewarts_
+​
+### Bloco 7: JavaScript ES6 & Testes Unitários
+​
+:black_large_square: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+​
+:black_large_square: 7-2: _JavaScript ES6 - Objects_
+​
+:black_large_square: 7-3: _Testes unitários em JavaScript_
+​
+:black_large_square: 7-4: _Projeto - JavaScript Testes Unitários_
+​
+​
+### Bloco 8: Higher Order Functions do JavaScript ES6
+​
+:black_large_square:8-1: _JavaScript ES6 - Introdução Higher Order Functions_
+​
+:black_large_square: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+​
+:black_large_square: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+​
+:black_large_square: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+​
+:black_large_square: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+​
+:black_large_square: 8-5: _Projeto - Zoo functions_
+​
+​
+### Bloco 9: Javascript Assíncrono e Promises
+​
+:black_large_square: 9-1: _JavaScript Assíncrono e Callbacks_
+​
+:black_large_square: 9-2: _JavaScript Promises_
+​
+:black_large_square: 9-3: _Projeto - Carrinho de Compras_
+​
+​
+### Bloco 10: Testes automatizados com Jest
+​
+:black_large_square: 10-1: _Primeiros passos no Jest_
+​
+:black_large_square: 10-2: _Jest - Testes Assíncronos_
+​
+:black_large_square: 10-3: _Jest - Simulando comportamentos_
+​
+:black_large_square: 10-4: _Projeto - Jest Assíncrono e Mocking_
+​
+  
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
-
-##### Bloco 11: IntroduÃ§Ã£o - React
-
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
-
-##### Bloco 12: React
-
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formularios no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
-
-##### Bloco 13: React
-
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
-
-##### Bloco 14: Metodologias Ageis
-
-- [ ] 14-1: _Metodologias Ageis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
-
-##### Bloco 15: Testes em React
-
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
-
-##### Bloco 16: Introducao ao Redux
-
-- [ ] 16-1: _Introducao ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Pratica_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes si­ncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
-
-##### Bloco 17: Projeto React
-
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
-
-##### Bloco 18: React & Context API
-
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
-
-##### Bloco 19: Projeto Final de Front-end
-
-- [ ] 19-1: _[Projeto - App de Receitas]()_
-
+​
+​
+### Bloco 11: Introdução - React
+​
+:black_large_square: 11-1: _'Hello, world!' no React!_
+​
+:black_large_square: 11-2: _Componentes React_
+​
+:black_large_square: 11-3: _Projeto - Movie Cards Library_
+​
+ 
+### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+​
+:black_large_square: 12-1: _Components com estado e eventos_
+​
+:black_large_square: 12-2: _Formulários no React_
+:black_large_square: 12-3: _Projeto - Movie Cards Library Stateful_
+​
+### Bloco 13: Ciclo de Vida de Componentes e React Router
+​
+:black_large_square: 13-1: _Ciclo de vida de componentes_
+:black_large_square: 13-2: _React Router_
+​
+:black_large_square: 13-3: _Projeto - Movie Cards Library CRUD_
+​
+​
+### Bloco 14: Metodologias ágeis
+​
+:black_large_square: 14-1: _Metodologias ágeis_
+​
+:black_large_square: 14-2: _Projeto - Frontend Online Store_
+​
+### Bloco 15: Testes automatizados com React Testing Library
+​
+:black_large_square: 15-1: _RTL - Primeiros Passos_
+​
+:black_large_square: 15-2: _RTL - Mocks e Inputs_
+​
+:black_large_square: 15-2: _RTL: Testando com React Router_
+​
+:black_large_square: 15-3: _Projeto - Testes em React_
+​
+​
+### Bloco 16: Introdução ao Redux
+​
+:black_large_square: 16-1: _Introdução ao Redux - O estado global da aplicação_
+​
+:black_large_square: 16-2: _Usando o Redux no React_
+​
+:black_large_square: 16-3: _Usando o Redux no React - Prática_
+​
+:black_large_square: 16-4: _Usando o Redux no React - Actions Assíncronas_
+​
+:black_large_square: 16-5: _Testes em React-Redux_
+​
+:black_large_square:16-6: _Projeto - Trybe Wallet_
+  
+​
+### Bloco 17: Projeto React
+​
+:black_large_square: 17-1: _Projeto - Jogo de Trivia_
+​
+​
+### Bloco 18: Context API & Reack Hooks
+​
+:black_large_square: 18-1: _Context API do React_
+​
+:black_large_square: 18-2: _React Hooks - useState e useContext_
+​
+:black_large_square: 18-3: _React Hooks - useEffect e Hooks customizados_
+​
+:black_large_square: 18-4: _Projeto - StarWars Datatable com Context API e Hooks_
+​
+​
+### Bloco 19: Projeto Final de Front-end
+​
+:black_large_square: 19-1: _Projeto - App de Receitas_
+​
+​
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
+​
+​
+### Bloco 20: Introdução - SQL
+​
+:black_large_square: 20-1: _Banco de dados SQL_
+​
+:black_large_square: 20-2: _Encontrando dados em um banco de dados_
+​
+:black_large_square: 20-3: _Filtrando dados de forma especí­fica_
+​
+:black_large_square: 20-4: _Manipulando tabelas_
+​
+:black_large_square: 20-5: _Projeto - All For One_
+​
+ 
+### Bloco 21: Funções SQL, Joins e Subqueries
+​
+:black_large_square: 21-1: _Funções mais usadas no SQL_
+​
+:black_large_square: 21-2: _Descomplicando JOINs, UNIONs e Subqueries_
+​
+:black_large_square: 21-3: _Stored Routines & Stored Functions_
+​
+:black_large_square: 21-4: _Projeto - Vocabulary Booster_
+​
+​
+### Bloco 22: Normalização e Modelagem de Banco de Dados
+​
+:black_large_square: 22-1: _Transformando ideias em um modelo de banco de dados - Parte 1_
+​
+:black_large_square: 22-2: _Normalização, Formas Normais e Dumps_
+​
+:black_large_square: 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
+​
+:black_large_square: 22-3: _Projeto - One For All_
+​
+ 
+### Bloco 23: Introdução - MongoDB
+​
+:black_large_square: 23-1: _Introdução NoSQL e MongoDB_
+​
+:black_large_square: 23-2: _Filter Operators_
+​
+:black_large_square: 23-3: _Projeto - Data Flights_
+​
+​
+### Bloco 24: MongoDB: Updates simples e complexos
+​
+:black_large_square: 24-1: _Updates Simples_
+​
+:black_large_square: 24-2: _Updates Complexos - Arrays - Parte 1_
+​
+:black_large_square: 24-3: _Updates Complexos - Arrays - Parte 2_
+​
+:black_large_square: 24-4: _Projeto - Commerce_
+​
+  
+### Bloco 25: MongoDB: Aggregation Framework
+​
+:black_large_square: 25-1: _Aggregation Framework - Part 1_
+​
+:black_large_square: 25-2: _Aggregation Framework - Part 2_
+​
+:black_large_square: 25-3: _Projeto - Aggregations_
+ 
+### Bloco 26: Introdução - NodeJS
+​
+:black_large_square: 26-1: _NodeJS - Introdução_
+​
+:black_large_square: 26-2: _NodeJS - Fluxo Assí­ncrono_
+​
+:black_large_square: 26-3: _Testes com NodeJS_
+​
+:black_large_square: 26-4: _Express: HTTP com Node.js_
+​
+:black_large_square: 26-5: _Praticando Express_
+​
+:black_large_square: 26-6: _Projeto - Talker Manager_
+​
+​
+### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+​
+:black_large_square: 27-1: _Introdução e Camada de Model: Arquitetura de Software_
+​
+:black_large_square: 27-2: _Arquitetura de Software - Camada de Controller e Service_
+​
+:black_large_square: 27-3: _Arquitetura Web - Rest e Restful_
+​
+:black_large_square: 27-4: _Arquitetura de Software - Testando as Camadas_
+​
+:black_large_square: 27-3: _Projeto - Store Manager_
+​
+ 
+### Bloco 28: Autenticação e Upload de Arquivos
+​
+:black_large_square: 28-1: _NodeJS - JWT - (JSON Web Token)_
+​
+:black_large_square: 28-2: _NodeJS - Updolad de arquivos com "multer"_
+​
+:black_large_square: 28-3: _Testando APIs com Teste de Integração_
+​
+:black_large_square: 28-3: _Projeto - Cookmaster_
+​
+​
+### Bloco 29: Depoloyment
+​
+:black_large_square: 29-1: _Introdução - Deploy_
+​
+:black_large_square: 29-1: _Infraestrutura - Deploy com Heroku_
+​
+:black_large_square: 29-2: _Gerenciadores de Processos_
+​
+:black_large_square: 29-3: _Projeto - Stranger Things_
+​
+​
+### Bloco 30: Arquitetura: SOLID e ORM
+​
+:black_large_square: 30-1: _Arquitetura - Princípios SOLID_
+​
+:black_large_square: 30-2: _ORM - Interface da aplicação com o banco de dados_
+​
+:black_large_square: 30-3: _ORM - Associations_
+​
+:black_large_square: 30-4: _Projeto - API de Blogs_
+​
+​
+### Bloco 31: Sockets
+​
+:black_large_square: 31-1: _Arquitetura de Software - Camada de View_
+​
+:black_large_square: 31-2: _Sockets - TCP/UDP & NET_
+​
+:black_large_square: 31-3: _Sockets - Socket.io_
+​
+:black_large_square: 31-4 _Sockets - Praticando Socket.io_
+​
+:black_large_square: 31-5: _Projeto - Webchat_
+​
+​
+### Bloco 32: Projeto
+​
+:black_large_square: 32-1: _Projeto - Trybeer V_
+​
+​
+## Ciência da Computação :hourglass_flowing_sand:
+​
+ 
+### Bloco 33: Introdução - Ciência da Computação
+​
+:black_large_square:  33-1: _Arquitetura de Computadores_
+​
+:black_large_square: 33-2: _Arquitetura de redes_
+​
+:black_large_square: 33-3: _Redes de computadores, ferramentas e segurança_
+​
+:black_large_square: 35-4: _Projeto - Explorando os protocolos_
+​
+​
+### Bloco 34: Introdução - Python e Raspagem de Dados da Web
+​
+:black_large_square: 34-1: _Aprendendo Python_
+​
+:black_large_square: 34-2: _Entrada e Saída de Dados_
+​
+:black_large_square: 34-3: _Raspagem de Dados_
+​
+:black_large_square: 34-4: _Testes_
+​
+:black_large_square: 34-5: _Projeto - Tech news_
+​
+​
+### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
+​
+:black_large_square: 35-1: _Introdução - Programação orientada a objetos_
+​
+:black_large_square: 35-2: _Herança, Composição e Interfaces_
+​
+:black_large_square: 35-3: _Padrões de projeto_
+​
+:black_large_square: 35-4: _Projeto - Relatórios de Estoque_
+​
+​
+### Bloco 36: Algoritmos e Estrutura de Dados
+​
+:black_large_square: 36-1: _Complexidade de Algoritmos_
+​
+:black_large_square: 36-2: _Recursividade e Estratégias para so
 
-##### Bloco 20: Introducao - Bancos de dados relacionais
-
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma especÃ­fica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
-
-##### Bloco 21: Bancos de dados relacionais
-
-- [ ] 21-1: _Funcoes mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
-
-##### Bloco 22: Bancos de dados relacionais
-
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalizacao, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
-
-##### Bloco 23: Introducao - NoSQL
-
-- [ ] 23-1: _MongoDB - Introducao_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
-
-##### Bloco 24: Updates
-
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
-
-##### Bloco 25: Aggregation Framework
-
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
-
-##### Bloco 26: Intro - NodeJS
-
-- [ ] 26-1: _NodeJS - Introducao_
-- [ ] 26-2: _NodeJS - Fluxo Assincrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
-
-##### Bloco 27: NodeJS
-
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introducao ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
-
-##### Bloco 28: NodeJS
-
-- [ ] 28-1: _Arquitetura de Software - Camada de Servisao_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
-
-##### Bloco 29: NodeJS
-
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
-
-##### Bloco 30: IntroduÃ§Ã£o - Deploy
-
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
-
-##### Bloco 31: Projeto
-
-- [ ] 31-1: _[Projeto - Trybeer]()_
-
-##### Bloco 32: Arquitetura de Software
-
-- [ ] 32-1: _Arquitetura - Principios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicacao com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas praticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
-
-##### Bloco 33: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
-
-##### Bloco 34: Projeto
-
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
-
-## Ciencia da Computacao :hourglass_flowing_sand:
-
-##### Bloco 35: Introducao - Ciencia da Computacao
-
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e seguranca_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
-
-##### Bloco 36: Python
-
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Excessoes_
-- [ ] 35-3: _Entrada e Saida de dados_
-- [ ] 36-4: _Entrada e Sada de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
-
-# [...]
