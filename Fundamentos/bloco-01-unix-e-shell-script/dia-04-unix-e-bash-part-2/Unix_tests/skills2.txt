@@ -1,0 +1,8 @@
+internet
+Unix
+Bash
+CSS
+HTML
+Python
+Designer Grafico
+JavaScript
