@@ -20,8 +20,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ​
 :ballot_box_with_check: 2-1: _O que é e para que serve?_
 ​
+
+
+
+
 :ballot_box_with_check: 2-2: _Entendendo os comandos_
 ​
+
+
+
+
 :ballot_box_with_check: 2-3: _Internet - Entendendo como ela funciona_
 ​
 ​
@@ -29,46 +37,108 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ​
 :black_large_square: 3-1: _HTML & CSS - Estruturas de página_
 ​
+
+
+
 :black_large_square: 3-2: _HTML & CSS - Primeiros passos em CSS_
 ​
+
+
+
+
 :black_large_square: 3-3: _HTML & CSS - Seletores e posicionamento_
 ​
+
+
+
+
 :black_large_square: 3-4: _HTML Semântico_
 ​
+
+
+
+
 :black_large_square: 3-5: _Projeto - Lesson Learned_
   
 ​
 ### Bloco 4: Introdução - JavaScript e Lógica
 ​
+
+
+
 :black_large_square:  4-1: _JavaScript - Primeiros passos_
 ​
+
+
+
+
 :black_large_square: 4-2: _JavaScript - Array e loop For_
 ​
+
+
+
+
 :black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 ​
+
+
+
 :black_large_square: 4-4: _JavaScript - Objetos e funções_
 ​
+
+
+
+
 :black_large_square: 4-5: _Projeto - Playground Functions_
 ​
   
 ### Bloco 5: Javascript: DOM, Eventos e Web Storage
 ​
+
+
+
 :black_large_square: 5-1: _JavaScript - DOM e seletores_
 ​
+
+
+
 :black_large_square: 5-2: _JavaScript - Trabalhando com elementos_
 ​
+
+
+
 :black_large_square: 5-3: _JavaScript - Eventos_
 ​
+
+
+
 :black_large_square:  5-4: _JavaScript - Web Storage_
 ​
+
+
+
 :black_large_square: 5.5: _Projeto: Arte com Pixels_
 ​
+
+
+
 :black_large_square: 5-6: _Projeto - Lista de tarefas_
 ​
+
+
+
+
 :black_large_square: 5-7: _Projeto Bônus - Meme Generator_
 ​
+
+
+
+
 :black_large_square: 5-7: _Projeto Bônus - Adivinhe a cor_
 ​
+
+
+
 :black_large_square: 5-7: _Projeto Bônus - Carta Misteriosa_
 ​
 ​
