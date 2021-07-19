@@ -11,6 +11,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 :ballot_box_with_check: 1-3: _Unix & Shell- Part 1_
 ​
 ​
+
+
 :ballot_box_with_check: 1-4: _Unix & Shell- Part 2_
 ​
 ​
