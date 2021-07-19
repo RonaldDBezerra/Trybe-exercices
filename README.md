@@ -1,5 +1,3 @@
-:rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe). 
-​
 Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por  [Ronald Damasio Bezerra](www.linkedin.com/in/ronalddamasio) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket: (2021-2022).
 ​
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
@@ -12,6 +10,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 :ballot_box_with_check: 1-3: _Unix & Shell- Part 1_
 ​
 ​
+
 :ballot_box_with_check: 1-4: _Unix & Shell- Part 2_
 ​
 ​
@@ -19,8 +18,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ​
 :ballot_box_with_check: 2-1: _O que é e para que serve?_
 ​
+
 :ballot_box_with_check: 2-2: _Entendendo os comandos_
 ​
+
 :ballot_box_with_check: 2-3: _Internet - Entendendo como ela funciona_
 ​
 ​
@@ -28,25 +29,34 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ​
 :black_large_square: 3-1: _HTML & CSS - Estruturas de página_
 ​
+
 :black_large_square: 3-2: _HTML & CSS - Primeiros passos em CSS_
 ​
+
 :black_large_square: 3-3: _HTML & CSS - Seletores e posicionamento_
 ​
+
 :black_large_square: 3-4: _HTML Semântico_
 ​
+
 :black_large_square: 3-5: _Projeto - Lesson Learned_
   
 ​
 ### Bloco 4: Introdução - JavaScript e Lógica
 ​
+
 :black_large_square:  4-1: _JavaScript - Primeiros passos_
 ​
+
 :black_large_square: 4-2: _JavaScript - Array e loop For_
 ​
+
 :black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 ​
+
 :black_large_square: 4-4: _JavaScript - Objetos e funções_
 ​
+
 :black_large_square: 4-5: _Projeto - Playground Functions_
 ​
   
