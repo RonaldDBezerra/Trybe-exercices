@@ -1,0 +1,53 @@
+.divisao-1 {
+    font-style: italic;
+}
+
+.divisao-3 {
+font-size: 24px;
+font-style: italic;
+}
+
+.divisao-5 {
+    font-style: italic;
+}
+
+div.divisao-1 h3:hover {
+    border: double;
+    border-color: red;
+    color: red;
+    font-style: italic;
+    font-weight: lighter;
+    
+}
+
+div.divisao-2 h3:hover {
+    border: double;
+    border-color: orange;
+    color: orange;
+    font-style: inherit;
+    
+    
+}
+
+div.divisao-3 h3:hover {
+    border: double;
+    border-color: blue;
+    color: blue;
+    font-style: initial;
+    
+}
+
+div.divisao-4 h3:hover{
+    border: double;
+    border-color: blueviolet;
+    color: blueviolet;
+    font-style: unset;
+   
+}
+
+div.divisao-5 h3:hover{
+    border: double;
+    border-color: sienna;
+    color: sienna;
+    font-style: oblique;
+}
