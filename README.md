@@ -58,7 +58,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-:black_large_square: 3-5: _Projeto - Lesson Learned_
+:ballot_box_with_check:  3-5: _Projeto - Lesson Learned_
   
 ​
 ### Bloco 4: Introdução - JavaScript e Lógica
@@ -66,7 +66,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-:black_large_square:  4-1: _JavaScript - Primeiros passos_
+:ballot_box_with_check:   4-1: _JavaScript - Primeiros passos_
 ​
 
 
