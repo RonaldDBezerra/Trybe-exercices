@@ -161,38 +161,39 @@ if (custo < 0 || venda < 0) {
 // 11 . Uma pessoa que trabalha de carteira assinada no Brasil tem descontados de seu salário bruto o INSS e o IR. Faça um programa que, dado um salário bruto, calcule o líquido a ser recebido.
 
 let salarioBruto = 3000;
-let aliquotaINSS =
+let aliquotaINSS 
 
-if (salarioBruto <= 1556,94) {
-    aliquotaINSS = 0,8
-} else if (salarioBruto > 1556,94 && salarioBruto <=2594,92) {
-    aliquotaINSS = 0,9
-} else if (salarioBruto > 2594,92 && <= 5189,82) {
-    aliquotaINSS = 0,11
+if (salarioBruto <= 1556.94) {
+    aliquotaINSS = 0.08
+} else if (salarioBruto > 1556.94 && salarioBruto <=2594.92) {
+    aliquotaINSS = 0.09
+} else if (salarioBruto > 2594.92 && salarioLiquido <= 5189.82) {
+    aliquotaINSS = 0.11
 } else {
-    aliquotaINSS = 5189,82
+    aliquotaINSS = 5189.82
 } 
 
 let salarioBase = salarioBruto - aliquotaINSS * 100
-let aliquotaIR =
-let parcelaIR =
+let aliquotaIR 
+let parcelaIR 
 
-if (salarioBase <= 1903,98) {
+if (salarioBase <= 1903.98) {
     aliquotaIR = 0
-} else if (salarioBase > 1903,98 && salarioBase <= 2.826,65) {
-    aliquotaIR = 0,075; 
-    parcelaIR = 142,80;
-} else if (salarioBase > 2826,65 && salarioBase 3751,05) {
-    aliquotaIR = 0,15;
-    parcelaIR = 354,80;
-} else if (salarioBase > 3751,05 && salarioBase <= 4664,68) {
-    aliquotaIR = 0,225;
-    parcelaIR = 636,13;
+} else if (salarioBase > 1903.98 && salarioBase <= 2826.65) {
+    aliquotaIR = 0.075; 
+    parcelaIR = 142.80;
+} else if (salarioBase > 2826,65 && salarioBase 3751.05) {
+    aliquotaIR = 0.15;
+    parcelaIR = 354.80;
+} else if (salarioBase > 3751,05 && salarioBase <= 4664.68) {
+    aliquotaIR = 0.225;
+    parcelaIR = 636.13;
 } else {
-    aliquotaIR = 0,275
-    parcelaIR = 869,36
+    aliquotaIR = 0.275
+    parcelaIR = 869.36
 }
 
 let descontoDoIR = salarioBase - aliquotaIR * 100;
 let salarioBaseComDescontosIR = descontoDoIR - parcelaIR
 let salarioLiquido = salarioBase - salarioBaseComDescontosIR
+console.log(salarioLiquido)
