@@ -72,24 +72,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-:black_large_square: 4-2: _JavaScript - Array e loop For_
+:ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 ​
 
 
 
 
-:black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+:ballot_box_with_check: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 ​
 
 
 
-:black_large_square: 4-4: _JavaScript - Objetos e funções_
+:ballot_box_with_check: 4-4: _JavaScript - Objetos e funções_
 ​
 
 
 
 
-:black_large_square: 4-5: _Projeto - Playground Functions_
+:ballot_box_with_check: 4-5: _Projeto - Playground Functions_
 ​
   
 ### Bloco 5: Javascript: DOM, Eventos e Web Storage
@@ -97,7 +97,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-:black_large_square: 5-1: _JavaScript - DOM e seletores_
+:ballot_box_with_check: 5-1: _JavaScript - DOM e seletores_
 ​
 
 
