@@ -56,15 +56,55 @@
     </style>
   </head>
   <body>
+      <img src="" alt="">
     <script>
-      let h1 = document.createElement("h1")
+    let h1 = document.createElement("h1")
       document.body.appendChild(h1).innerText = "Exercício 5.2 - JavaScript DOM"
 
-      let main = document.createElement("main")
+    let main = document.createElement("main")
       document.body.appendChild(main)
       main.className = "main-content"
 
-      
+        
+    let contentCenter = document.createElement("section")
+        main.appendChild(contentCenter)
+        contentCenter.className = "center-content"
+
+    let p = document.createElement("p")
+        contentCenter.appendChild(p).innerText = "DATTEBAYO!"
+    
+    let leftContent = document.createElement("section")
+        main.appendChild(leftContent)
+        leftContent.className = "left-content"
+    
+    let rightContent = document.createElement("section")
+        main.appendChild(rightContent)
+        rightContent.className = "right-content"
+
+    let image = document.createElement("img")
+        image.src = "https://picsum.photos/200"
+        leftContent.appendChild(image)
+        image.className = "small-image"
+
+    let naoOrdenada = document.createElement("ol")
+        rightContent.appendChild(naoOrdenada)
+        naoOrdenada.className = "naoOrdenada"
+    let numeros = ["Um","Dois","Três","Quatro","Cinco","Seis","Sete","Oito","Nove","Dez"];
+        for(i = 0; i < numeros.length; i+=1){
+            resultado = numeros[i]
+            listaNaoOrdenada = document.createElement("li");
+            listaNaoOrdenada.innerText = resultado;
+            naoOrdenada.appendChild(listaNaoOrdenada);
+        }
+
+    let h3A = document.createElement("h3")
+      main.appendChild(h3A)
+    
+    let h3B = document.createElement("h3")
+      main.appendChild(h3B)
+    
+    let h3C = document.createElement("h3")
+      main.appendChild(h3C)
 
 
     </script>
