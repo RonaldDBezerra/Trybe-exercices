@@ -1,0 +1,109 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  body {
+      margin: 15px;
+  }
+
+.container {
+    display: flex;
+}
+@media screen and (max-width: 414px) and (max-width: 539px) {
+    .container {
+        flex-direction: column;
+        }
+    header h1 {
+        font-size: 28px;
+        }
+    nav ul {
+        font-size: 22px;
+        }
+    aside ul {
+        font-size: 19px;
+    }
+    aside.aside-two ul {
+        font-size: 19px;
+    }
+    article h1 {
+        font-size: 28px;
+    }
+    article p {
+        text-align: justify;
+        font-size: 20px;
+    }    
+}
+
+@media screen and (min-width:540px) and (max-width:1023px) {
+    .container {
+        flex-direction: column;
+    }
+    header h1 {
+        font-size: 32px;
+        }
+    nav ul {
+        font-size: 25px;
+        }
+    h2 {
+        font-size: 30px;
+    }
+    aside ul {
+        font-size: 22px;
+    }
+    aside.aside-two ul {
+        font-size: 22px;
+    }
+    article h1 {
+        font-size: 28px;
+    }
+    article p {
+        text-align: justify;
+        font-size: 26px;
+    }
+    footer h3 {
+        font-size: 24px;
+    }
+
+    footer p {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .container {
+        flex-direction: column;
+    }
+    header h1 {
+        font-size: 40px;
+        }
+    nav ul {
+        font-size: 28px;
+        }
+    h2 {
+        font-size: 35px;
+    }
+    aside ul {
+        font-size: 23px;
+    }
+    aside.aside-two ul {
+        font-size: 23px;
+    }
+    article h1 {
+        font-size: 36px;
+    }
+    article p {
+        text-align: justify;
+        font-size: 28px;
+    }
+    footer h3 {
+        font-size: 24px;
+    }
+
+    footer p {
+        font-size: 18px;
+    }
+}
+
