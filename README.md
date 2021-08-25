@@ -168,22 +168,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-:black_large_square: 6-3: _CSS Flexbox - Part 1_
+:ballot_box_with_check: 6-3: _CSS Flexbox - Part 1_
 ​
 
 
 
-:black_large_square: 6-4: _CSS Flexbox - Part 2_
+:ballot_box_with_check: 6-4: _CSS Flexbox - Part 2_
 ​
 
 
 
-:black_large_square: 6-5: _CSS Responsivo - Mobile First_
+:ballot_box_with_check: 6-5: _CSS Responsivo - Mobile First_
 ​
 
 
 
-:black_large_square: 6-6: _Projeto - Trybewarts_
+:ballot_box_with_check:6-6: _Projeto - Trybewarts_
 ​
 ### Bloco 7: JavaScript ES6 & Testes Unitários
 ​
