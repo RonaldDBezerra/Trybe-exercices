@@ -207,7 +207,7 @@ function authorUnique() {
   
   books.sort((a, b) => a.author.birthYear - b.author.birthYear)
   
-  let retornado = books.forEach(param => {
+  books.forEach(param =>  {  
     
     if (param.author.birthYear === numero) {
       resultado = false;
@@ -218,5 +218,5 @@ function authorUnique() {
   })
   return resultado;
 }
-
+console.log(authorUnique())
 assert.strictEqual(authorUnique(), false);
