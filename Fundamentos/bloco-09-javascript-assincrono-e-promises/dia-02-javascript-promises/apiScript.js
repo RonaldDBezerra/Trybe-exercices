@@ -16,17 +16,7 @@ const fetchJoke = () => {
 
   fetch(API_URL, myObject)
     .then(response => response.json())
-    .then(data => data.joke)
-    .then(retorno => {
-      let h2 = document.getElementById("jokeContainer")
-      
-      const colocaNoId = (param) => {
-        const resultado = h2.innerText = param;
-        return resultado;
-      }
-      
-      colocaNoId(retorno)
-    })
+    .then(data => console.log(data));
 };
 
-window.onload = () => fetchJoke()
+window.onload = () => fetchJoke();
