@@ -1,0 +1,33 @@
+body {
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+.main-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.div-content{
+  display: flex;
+  justify-content: space-evenly;
+  width: 35%;
+  border: solid 1px wheat;
+  border-radius: 10px;
+  margin: 10px;
+  text-align: center;
+  padding: 5px;
+}
+
+.card-pokemon {
+  display: flex;
+  flex-direction: column;
+}
