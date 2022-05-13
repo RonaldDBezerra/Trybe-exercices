@@ -439,186 +439,186 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
  
 ### Bloco 21: Funções SQL, Joins e Subqueries
 ​
-:black_large_square: 21-1: _Funções mais usadas no SQL_
+:ballot_box_with_check: 21-1: _Funções mais usadas no SQL_
 ​
 
 
 
-:black_large_square: 21-2: _Descomplicando JOINs, UNIONs e Subqueries_
+:ballot_box_with_check: 21-2: _Descomplicando JOINs, UNIONs e Subqueries_
 ​
 
 
 
-:black_large_square: 21-3: _Stored Routines & Stored Functions_
+:ballot_box_with_check: 21-3: _Stored Routines & Stored Functions_
 ​
 
 
 
-:black_large_square: 21-4: _Projeto - Vocabulary Booster_
+:ballot_box_with_check: _Projeto - Vocabulary Booster_
 ​
 ​
 ### Bloco 22: Normalização e Modelagem de Banco de Dados
 ​
-:black_large_square: 22-1: _Transformando ideias em um modelo de banco de dados - Parte 1_
+:ballot_box_with_check: _Transformando ideias em um modelo de banco de dados - Parte 1_
 ​
 
 
 
-:black_large_square: 22-2: _Normalização, Formas Normais e Dumps_
+:ballot_box_with_check: 22-2: _Normalização, Formas Normais e Dumps_
 ​
 
 
 
-:black_large_square: 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
+:ballot_box_with_check: 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
 ​
 
 
 
-:black_large_square: 22-3: _Projeto - One For All_
+:ballot_box_with_check: 22-3: _Projeto - One For All_
 ​
  
 ### Bloco 23: Introdução - MongoDB
 ​
-:black_large_square: 23-1: _Introdução NoSQL e MongoDB_
+:ballot_box_with_check: 23-1: _Introdução NoSQL e MongoDB_
 ​
 
 
 
-:black_large_square: 23-2: _Filter Operators_
+:ballot_box_with_check: 23-2: _Filter Operators_
 ​
 
 
 
-:black_large_square: 23-3: _Projeto - Data Flights_
+:ballot_box_with_check: 23-3: _Projeto - Data Flights_
 ​
 ​
 ### Bloco 24: MongoDB: Updates simples e complexos
 ​
-:black_large_square: 24-1: _Updates Simples_
+:ballot_box_with_check::black_large_square: 24-1: _Updates Simples_
 ​
 
 
 
-:black_large_square: 24-2: _Updates Complexos - Arrays - Parte 1_
+:ballot_box_with_check: 24-2: _Updates Complexos - Arrays - Parte 1_
 ​
 
 
 
-:black_large_square: 24-3: _Updates Complexos - Arrays - Parte 2_
+:ballot_box_with_check: 24-3: _Updates Complexos - Arrays - Parte 2_
 ​
 
 
 
-:black_large_square: 24-4: _Projeto - Commerce_
+:ballot_box_with_check: 24-4: _Projeto - Commerce_
 ​
   
 ### Bloco 25: MongoDB: Aggregation Framework
 ​
-:black_large_square: 25-1: _Aggregation Framework - Part 1_
+:ballot_box_with_check: 25-1: _Aggregation Framework - Part 1_
 ​
 
 
 
-:black_large_square: 25-2: _Aggregation Framework - Part 2_
+:ballot_box_with_check: 25-2: _Aggregation Framework - Part 2_
 ​
 
 
 
-:black_large_square: 25-3: _Projeto - Aggregations_
+:ballot_box_with_check: 25-3: _Projeto - Aggregations_
  
 ### Bloco 26: Introdução - NodeJS
 ​
-:black_large_square: 26-1: _NodeJS - Introdução_
+:ballot_box_with_check: 26-1: _NodeJS - Introdução_
 ​
 
 
 
-:black_large_square: 26-2: _NodeJS - Fluxo Assí­ncrono_
+:ballot_box_with_check: 26-2: _NodeJS - Fluxo Assí­ncrono_
 ​
 
 
 
-:black_large_square: 26-3: _Testes com NodeJS_
+:ballot_box_with_check: 26-3: _Testes com NodeJS_
 ​
 
 
 
-:black_large_square: 26-4: _Express: HTTP com Node.js_
+:ballot_box_with_check: 26-4: _Express: HTTP com Node.js_
 ​
 
 
 
-:black_large_square: 26-5: _Praticando Express_
+:ballot_box_with_check: 26-5: _Praticando Express_
 ​
 
 
 
-:black_large_square: 26-6: _Projeto - Talker Manager_
+:ballot_box_with_check: 26-6: _Projeto - Talker Manager_
 ​
 ​
 ### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 ​
-:black_large_square: 27-1: _Introdução e Camada de Model: Arquitetura de Software_
+:ballot_box_with_check: 27-1: _Introdução e Camada de Model: Arquitetura de Software_
 ​
 
 
 
-:black_large_square: 27-2: _Arquitetura de Software - Camada de Controller e Service_
+:ballot_box_with_check: 27-2: _Arquitetura de Software - Camada de Controller e Service_
 ​
 
 
 
-:black_large_square: 27-3: _Arquitetura Web - Rest e Restful_
+:ballot_box_with_check: 27-3: _Arquitetura Web - Rest e Restful_
 ​
 
 
 
-:black_large_square: 27-4: _Arquitetura de Software - Testando as Camadas_
+:ballot_box_with_check: 27-4: _Arquitetura de Software - Testando as Camadas_
 ​
 
 
 
-:black_large_square: 27-3: _Projeto - Store Manager_
+:ballot_box_with_check: 27-3: _Projeto - Store Manager_
 ​
  
 ### Bloco 28: Autenticação e Upload de Arquivos
 ​
-:black_large_square: 28-1: _NodeJS - JWT - (JSON Web Token)_
+:ballot_box_with_check: 28-1: _NodeJS - JWT - (JSON Web Token)_
 ​
 
 
 
-:black_large_square: 28-2: _NodeJS - Updolad de arquivos com "multer"_
+:ballot_box_with_check: 28-2: _NodeJS - Updolad de arquivos com "multer"_
 ​
 
 
 
-:black_large_square: 28-3: _Testando APIs com Teste de Integração_
+:ballot_box_with_check:28-3: _Testando APIs com Teste de Integração_
 ​
 
 
 
-:black_large_square: 28-3: _Projeto - Cookmaster_
+:ballot_box_with_check: 28-3: _Projeto - Cookmaster_
 ​
 ​
 ### Bloco 29: Depoloyment
 ​
-:black_large_square: 29-1: _Introdução - Deploy_
+:ballot_box_with_check: 29-1: _Introdução - Deploy_
 ​
 
 
 
-:black_large_square: 29-1: _Infraestrutura - Deploy com Heroku_
+:ballot_box_with_check: 29-1: _Infraestrutura - Deploy com Heroku_
 ​
 
 
 
-:black_large_square: 29-2: _Gerenciadores de Processos_
+:ballot_box_with_check: 29-2: _Gerenciadores de Processos_
 ​
 
 
 
-:black_large_square: 29-3: _Projeto - Stranger Things_
+:ballot_box_with_check: 29-3: _Projeto - Stranger Things_
 ​
 ​
 ### Bloco 30: Arquitetura: SOLID e ORM
